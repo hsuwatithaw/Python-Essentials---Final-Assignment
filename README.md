@@ -4,7 +4,7 @@ Capstone Project
 
 Overview
 
-This project is a simple Python web scraper that collects product names and prices from multiple web pages and stores the extracted data in Excel files.
+This project is a Python web scraper that collects product names and prices from multiple web pages and stores the extracted data in Excel files.
 The scraper processes each page individually, saves the page-level results, and then combines all collected data into a single Excel file for easier analysis.
 
 Features
